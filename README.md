@@ -31,4 +31,5 @@ The best performing combination of model and processing technique was removing s
 
 ### Experiment 3
 
-For the third experiment, I implemented the same algorithms but with a different stemmer (krovetz instead of porter). Krovetz seemed to worsen the performance when compared to Porter. However, the above analysis still held i.e. the worst performing model remained RawTF. Okapi and LogTFIDF are popular algorithms and their performance here validates this fact.
+<p align = "justify">
+For the third experiment, I implemented the same algorithms but with a different stemmer (krovetz instead of porter). Krovetz seemed to worsen the performance when compared to Porter. However, the above analysis still held i.e. the worst performing model remained RawTF. Okapi and LogTFIDF are popular algorithms and their performance here validates this fact. </p>
